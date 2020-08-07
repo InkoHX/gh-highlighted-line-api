@@ -36,9 +36,9 @@ https://gh-highlighted-line.vercel.app/<Owner>/<Repository Name>/<Branch>/<File 
   "extension": "ts",
   "code": [
     "const client = new Client({",
-    "ws: {",
-    "intents: Intents.NON_PRIVILEGED",
-    "}",
+    "  ws: {",
+    "    intents: Intents.NON_PRIVILEGED",
+    "  }",
     "})"
   ]
 }
