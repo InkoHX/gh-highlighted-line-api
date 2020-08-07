@@ -1,1 +1,8 @@
-{}
+{
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "https://github.com/InkoHX/gh-highlighted-line-api"
+    }
+  ]
+}
