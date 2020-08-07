@@ -1,0 +1,9 @@
+{
+  "name": "gh-code-viewer-api",
+  "repository": "https://github.com/InkoHX/gh-code-viewer-api.git",
+  "author": "InkoHX <inkohx@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^3.9.7"
+  }
+}
