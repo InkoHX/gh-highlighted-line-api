@@ -9,9 +9,5 @@
     "@types/node-fetch": "^2.5.7",
     "@vercel/node": "^1.7.4",
     "typescript": "^3.9.7"
-  },
-  "dependencies": {
-    "cheerio": "^1.0.0-rc.3",
-    "node-fetch": "^2.6.0"
   }
 }
