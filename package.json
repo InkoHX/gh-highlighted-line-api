@@ -9,6 +9,7 @@
     "typescript": "^3.9.7"
   },
   "dependencies": {
-    "chrome-aws-lambda": "^5.2.0"
+    "chrome-aws-lambda": "^5.2.0",
+    "puppeteer-core": "^5.2.1"
   }
 }
