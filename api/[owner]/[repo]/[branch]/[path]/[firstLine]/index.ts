@@ -17,5 +17,6 @@ export default async function (request: NowRequest, response: NowResponse) {
 
   const result = await fetchHighlightedCode(page)
 
+  response.setHeader('Cache-Control', 's-maxage=600, stale-while-revalidate')
   response.status(200).send(result)
 }
