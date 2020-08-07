@@ -1,4 +1,12 @@
 {
   "deepscan.enable": true,
-  "explorer.compactFolders": false
+  "explorer.compactFolders": false,
+  "json.schemas": [
+    {
+      "fileMatch": [
+        "/vercel.json"
+      ],
+      "url": "https://vcs.now.sh"
+    }
+  ]
 }
