@@ -2,7 +2,7 @@ import { LaunchOptions } from "puppeteer-core";
 
 import { executablePath, headless, args } from 'chrome-aws-lambda'
 
-export const getLaunchOptions = async (): Promise<LaunchOptions> => process.env.IS_PRODUCTION
+export const getLaunchOptions = async (): Promise<LaunchOptions> => process.env.NODE_ENV === 'production'
   ? {
     executablePath: await executablePath,
     headless: headless,
