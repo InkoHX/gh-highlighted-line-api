@@ -43,3 +43,7 @@ https://gh-highlighted-line.vercel.app/<Owner>/<Repository Name>/<Branch>/<File 
   ]
 }
 ```
+
+## Deploy to Vercel
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/git?s=https%3A%2F%2Fgithub.com%2FInkoHX%2Fgh-highlighted-line-api)
