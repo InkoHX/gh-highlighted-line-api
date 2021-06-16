@@ -28,10 +28,10 @@
   dependencies:
     "@types/node" "*"
 
-"@vercel/node@^1.8.2":
-  version "1.8.2"
-  resolved "https://registry.yarnpkg.com/@vercel/node/-/node-1.8.2.tgz#8334a5ed0286ef2dc3a650f1f9b8d2e346da62ba"
-  integrity sha512-K4SPBQ/UTn9IfAFaMgdJFXCiU/8LsBWHztJPI4aUh24WgYf0pDGyaEDj/RZyiSjfGB+piE1cRUBvHe+mzVHyHQ==
+"@vercel/node@^1.11.1":
+  version "1.11.1"
+  resolved "https://registry.yarnpkg.com/@vercel/node/-/node-1.11.1.tgz#3500dff4ebb4fa93e7451ffa16dcade8be2bb305"
+  integrity sha512-2OheDtjxr1OkYyvMh7laDkOA4K6KfLL60IBg1D+PksNri2YEFaPK1lzdq7xuByuDRUs+tm9U57sPVAlyzGjlvw==
   dependencies:
     "@types/node" "*"
     ts-node "8.9.1"
